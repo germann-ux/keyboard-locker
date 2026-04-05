@@ -1,0 +1,121 @@
+# =========================
+# Build results
+# =========================
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.userosscache
+*.suo
+*.rsuser
+/_buildcheck/
+/artifacts/
+# =========================
+# Rider / JetBrains
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# NuGet
+# =========================
+packages/
+*.nupkg
+*.snupkg
+project.assets.json
+project.nuget.cache
+
+# =========================
+# Publish output
+# =========================
+publish/
+*.publish.xml
+
+# =========================
+# Local settings / secrets
+# =========================
+appsettings.Development.json
+secrets.json
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+
+# =========================
+# Installer outputs (si usas instaladores)
+# =========================
+*.msi
+*.exe
+*.zip
+*.rar
+
+# =========================
+# ClickOnce
+# =========================
+*.application
+*.manifest
+
+# =========================
+# Windows specific caches
+# =========================
+*.cache
+*.pidb
+*.svclog
+
+# =========================
+# Test results
+# =========================
+TestResults/
+*.trx
+
+# =========================
+# Coverage
+# =========================
+coverage/
+*.coverage
+
+# =========================
+# MAUI / Xamarin (por si aplica)
+# =========================
+*.apk
+*.aab
+*.appx
+*.appxbundle
+*.appxupload
+
+# =========================
+# Entity Framework
+# =========================
+*.dbmdl
+*.edmx.diagram
